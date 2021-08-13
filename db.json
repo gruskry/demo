@@ -1,9 +1,0 @@
-{
-  "name": "FirstRule" ,
-  "privateIpAddress": "12.12.12.12",
-  "type": "Firewall",
-  "priority": 300,
-  "sourceAddresses": ["test", "8.8.8.8"],
-  "routingRules": ["test2", "test1"],
-  "firewallRules": ["2test", "1test"]
-}
